@@ -7,6 +7,8 @@
     {
       "chipFamily": "ESP32",
       "parts": [
+        { "path": "BenficaDesktop_V5_1.ino.bootloader.bin", "offset": 4096 },
+        { "path": "BenficaDesktop_V5_1.ino.partitions.bin", "offset": 32768 },
         { "path": "BenficaDesktop_V5_1.ino.bin",            "offset": 65536 }
       ]
     }
