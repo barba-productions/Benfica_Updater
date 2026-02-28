@@ -1,0 +1,16 @@
+{
+  "name": "BenficaDesktop",
+  "version": "5.1",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "firmware_SemprePalestra_V4_7.ino.merged.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
