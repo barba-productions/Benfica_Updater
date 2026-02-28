@@ -8,7 +8,8 @@
       "parts": [
         { "path": "BenficaDesktop_V5_1.ino.bootloader.bin", "offset": 4096 },
         { "path": "BenficaDesktop_V5_1.ino.partitions.bin", "offset": 32768 },
-        { "path": "BenficaDesktop_V5_1.ino.bin", "offset": 65536 }
+        { "path": "boot_app0.bin",                          "offset": 57344 },
+        { "path": "BenficaDesktop_V5_1.ino.bin",            "offset": 65536 }
       ]
     }
   ]
