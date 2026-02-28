@@ -2,6 +2,7 @@
   "name": "BenficaDesktop",
   "version": "5.1",
   "new_install_prompt_erase": false,
+  "new_install_skip_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32",
